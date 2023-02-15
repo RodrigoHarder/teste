@@ -1,0 +1,16 @@
+.main-caixa{
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-grow: 1;
+}
+.main-caixa-foto{
+    width:200px;
+    flex-grow: 1;
+}
+
+.main-caixa-texto{
+    font-size: 15px;
+    flex-grow: 1;
+}
